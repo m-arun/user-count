@@ -1,4 +1,4 @@
 eval "$(ssh-agent -s)"
-ssh-add "../../mukunth_rsa"
+ssh-add "/home/rohit/Documents/hit_count/mukunth_rsa"
 git push origin main
 
